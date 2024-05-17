@@ -15,7 +15,7 @@
 </p>
 <br>
 <br>
-<h2 align="center">Proyects💻</h2>
+<h1 align="center">Proyects💻</h1>
 
 <p>
   ☕Take a look to some of my proyects (finished or in development) <br>
