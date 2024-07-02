@@ -32,7 +32,7 @@
   <br>
   <br>
 
-  - 🚀 [Easy Downloader Mobile](https://github.com/Lostdou/Easy-Downloader-Mobile) - Android application that allows you to download videos from different applications: Instagram, TikTok, YouTube, Twitter, etc.
+  - 🚀 Easy Downloader Mobile - Program that allows you to download videos from different applications: Instagram, TikTok, YouTube, Twitter, etc.
 
     In Development
   
