@@ -26,6 +26,12 @@
   <br>
   <br>
 
+ - 🎶 [DouPlay](https://github.com/Lostdou/DouPlay) - Discord bot to play music from YouTube on a call
+
+  <img src="https://github.com/user-attachments/assets/b47265b2-dd78-467d-a298-f24ea5fee758" alt="Descripción de la imagen" align="center" width="400" height="300"> <br>
+  <br>
+  <br>
+
   - 🤖 [ItsFridayBot](https://github.com/Dou-Community-S-A/Its_Friday_Bot) - Twitter bot that tweets every day whether it's Friday or not
 
   <img src="https://github.com/Lostdou/Lostdou/assets/161231229/ea8f9854-2ef8-4159-a47e-38127fa5709d" alt="Descripción de la imagen" align="center" width="400" height="300">
@@ -33,11 +39,7 @@
   <br>
   <br>
 
-  - 🎶 [DouPlay](https://github.com/Lostdou/DouPlay) - Discord bot to play music from YouTube on a call
-
-  <img src="https://github.com/user-attachments/assets/b47265b2-dd78-467d-a298-f24ea5fee758" alt="Descripción de la imagen" align="center" width="400" height="300"> <br>
-  <br>
-  <br>
+ 
   
   - 🚀 Easy Downloader - Program that allows you to download videos from different applications: Instagram, TikTok, YouTube, Twitter, etc.
 
