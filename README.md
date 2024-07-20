@@ -23,10 +23,10 @@
   - ⚒ [MineUtilities](https://github.com/Lostdou/MineUtilities) - A Minecraft Java Support Software with Multiple User Features
   <br>
 
- - 🎰 [DouPlay](https://github.com/Lostdou/DouPlay) - Discord bot to play music from YouTube on a call
+ - 🎶 [DouPlay](https://github.com/Lostdou/DouPlay) - Discord bot to play music from YouTube on a call
   <br>
 
- - 🎶 [Game Randomizer](https://github.com/Lostdou/Game-Randomizer-Bot) - Simple discord bot that picks random messages from a channel
+ - 🎰 [Game Randomizer](https://github.com/Lostdou/Game-Randomizer-Bot) - Simple discord bot that picks random messages from a channel
   <br>
 
   - 🤖 [ItsFridayBot](https://github.com/Dou-Community-S-A/Its_Friday_Bot) - Twitter bot that tweets every day whether it's Friday or not
