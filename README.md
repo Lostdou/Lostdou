@@ -15,10 +15,10 @@
 </p>
 <br>
 <br>
-<h1 align="center">Proyects💻</h1>
+<h1 align="center">Projects💻</h1>
 
 <p>
-  ☕Take a look to some of my proyects (finished or in development) <br>
+  ☕Take a look to some of my projects (finished or in development) <br>
   
   - ⚒ [MineUtilities](https://github.com/Lostdou/MineUtilities) - A Minecraft Java Support Software with Multiple User Features
   <br>
