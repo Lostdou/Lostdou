@@ -9,7 +9,7 @@
   
   - ⚡ Im 18 years old
     
-  - 💻 Currently learning ``Python``, ``JavaScript`` and more languajes
+  - 💻 Currently learning ``Python``, ``JavaScript`` and more languages
   
   - ❤️ I love solving problems, except my problems
 </p>
