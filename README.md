@@ -9,7 +9,7 @@
   
   - ⚡ Im 18 years old
     
-  - 💻 Currently learning ``Python`` and more languajes
+  - 💻 Currently learning ``Python``, ``JavaScript`` and more languajes
   
   - ❤️ I love solving problems, except my problems
 </p>
@@ -26,11 +26,17 @@
   <br>
   <br>
 
- - 🎶 [DouPlay](https://github.com/Lostdou/DouPlay) - Discord bot to play music from YouTube on a call
+ - 🎰 [DouPlay](https://github.com/Lostdou/DouPlay) - Discord bot to play music from YouTube on a call
 
   <img src="https://github.com/user-attachments/assets/b47265b2-dd78-467d-a298-f24ea5fee758" alt="Descripción de la imagen" align="center" width="400" height="300"> <br>
   <br>
   <br>
+
+ - 🎶 [Game Randomizer](https://github.com/Lostdou/Game-Randomizer-Bot) - Simple discord bot that picks random messages from a channel
+
+  <img src="https://github.com/user-attachments/assets/502e9c76-547b-4dce-8799-9c22b7792472" alt="Descripción de la imagen" align="center" width="400" height="300"> <br>
+  <br>
+  <br>  
 
   - 🤖 [ItsFridayBot](https://github.com/Dou-Community-S-A/Its_Friday_Bot) - Twitter bot that tweets every day whether it's Friday or not
 
