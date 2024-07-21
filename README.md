@@ -7,7 +7,7 @@
   
   - 👂 My mum doesn´t call me lostdou, but u can
   
-  - ⚡ Im 18 years old
+  - ⚡ Im 19 years old
     
   - 💻 Currently learning ``Python``, ``JavaScript`` and more languages
   
