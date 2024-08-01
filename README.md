@@ -15,6 +15,16 @@
 </p>
 <br>
 <br>
+
+<h1 align="center">Organization🏢</h1>
+
+💻Me and my friends coding for fun
+
+![image](https://github.com/user-attachments/assets/7b579233-0615-440e-9fc7-f428484f6d52)
+
+
+
+
 <h1 align="center">Projects💻</h1>
 
 <p>
@@ -32,11 +42,11 @@
   - 🤖 [ItsFridayBot](https://github.com/Dou-Community-S-A/Its_Friday_Bot) - Twitter bot that tweets every day whether it's Friday or not
   <br>
 
- 
+  - 🏮 [AnimeTerm](https://github.com/Dou-Community-S-A/term-anime) - App to search anime and watch it on your PC without ads and weird things. (In Development)
+  <br>
   
-  - 🚀 Easy Downloader - Program that allows you to download videos from different applications: Instagram, TikTok, YouTube, Twitter, etc.
-
-    In Development
+  - 🚀 Easy Downloader - Program that allows you to download videos from different applications: Instagram, TikTok, YouTube, Twitter, etc. (In Development)
+  <br>
   
 </p>
 
