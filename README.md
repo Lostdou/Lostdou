@@ -42,7 +42,7 @@
   - 🤖 [ItsFridayBot](https://github.com/Dou-Community-S-A/Its_Friday_Bot) - Twitter bot that tweets every day whether it's Friday or not
   <br>
 
-  - 🏮 [AnimeTerm](https://github.com/Dou-Community-S-A/term-anime) - App to search anime and watch it on your PC without ads and weird things. (In Development)
+  - 🏮 [AnimeLibre](https://github.com/Dou-Community-S-A/animelibre) - App to search anime and watch it on your PC without ads and weird things. (In Development)
   <br>
   
   - 🚀 Easy Downloader - Program that allows you to download videos from different applications: Instagram, TikTok, YouTube, Twitter, etc. (In Development)
