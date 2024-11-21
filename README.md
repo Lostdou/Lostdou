@@ -29,7 +29,7 @@
   
   - ❤️ I love solving problems, except my problems
 
-  - 💼 Currently working for P.CH. as ``Web Developer``
+  - 💼 Currently working for P.CH. as ``Fullstack developer``
 </p>
 <br>
 <br>
