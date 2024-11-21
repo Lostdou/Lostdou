@@ -25,7 +25,7 @@
   
   - ⚡ Im 19 years old
     
-  - 💻 Currently learning ``Python``, ``JavaScript`` and more languages
+  - 💻 Currently learning ``Python``, ``TypeScript`` and more languages
   
   - ❤️ I love solving problems, except my problems
 
