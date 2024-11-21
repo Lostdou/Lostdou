@@ -1,11 +1,26 @@
-<h1 align="center">Hi 🗣</h1>
+<h1 align="start">LostDou</h1>
 
-<p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Developer" alt="Typing SVG" />
+</a>
   <img src="https://avatars.githubusercontent.com/lostdou" alt="Descripción de la imagen" align="right" width="200" height="200">
   <br>
-  <br>
+
+  <p align="left">
+  <a href="https://twitter.com/nosoylostdou" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  </a>
   
-  - 👂 LostDou
+  <a href="https://discord.com/users/lostdou" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  
+  <a href="https://www.twitch.tv/lostdou" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
+  </a>
+</p>
+
+<br>
   
   - ⚡ Im 19 years old
     
@@ -13,7 +28,7 @@
   
   - ❤️ I love solving problems, except my problems
 
-  - 💼 Currently working for P.CH.
+  - 💼 Currently working for P.CH. as ``Web Developer``
 </p>
 <br>
 <br>
