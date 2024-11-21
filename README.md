@@ -5,13 +5,15 @@
   <br>
   <br>
   
-  - 👂 My mum doesn´t call me lostdou, but u can
+  - 👂 LostDou
   
   - ⚡ Im 19 years old
     
   - 💻 Currently learning ``Python``, ``JavaScript`` and more languages
   
   - ❤️ I love solving problems, except my problems
+
+  - 💼 Currently working for P.CH.
 </p>
 <br>
 <br>
