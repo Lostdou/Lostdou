@@ -36,7 +36,7 @@
 
 
 <h1></h1>
-<h1 align="center">Lenguajes y Tecnologias 🧠</h1>
+<h1 align="center">Languages & Technologies 🧠</h1>
 <div align="center" style='margin-botton: 5%'>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
