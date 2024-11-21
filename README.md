@@ -3,14 +3,13 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Developer" alt="Typing SVG" />
 </a>
+
   <img src="https://avatars.githubusercontent.com/lostdou" alt="Descripción de la imagen" align="right" width="200" height="200">
-  <br>
 
   <p align="left">
   <a href="https://twitter.com/nosoylostdou" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
   </a>
-  
   <a href="https://discord.com/users/lostdou" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
@@ -19,6 +18,8 @@
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
   </a>
 </p>
+<br>
+ 
 
 <br>
   
@@ -33,6 +34,8 @@
 <br>
 <br>
 
+<h1></h1>
+
 <h1 align="center">Organization🏢</h1>
 
 💻Me and my friends coding for fun
@@ -41,7 +44,7 @@
 
 
 
-
+<h1></h1>
 <h1 align="center">Projects💻</h1>
 
 <p>
