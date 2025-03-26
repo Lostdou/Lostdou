@@ -72,7 +72,7 @@
 
 💻Me and my friends coding for fun
 
-![image](https://github.com/user-attachments/assets/7b579233-0615-440e-9fc7-f428484f6d52)
+![image](https://github.com/user-attachments/assets/4eaa99c3-ab08-43c3-a38f-ead14a348474)
 
 
 
