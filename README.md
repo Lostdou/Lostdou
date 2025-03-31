@@ -1,7 +1,7 @@
 <h1 align="start">LostDou</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Junior+Fullstack+Developer" alt="Typing SVG" />
 </a>
 
   <img src="https://avatars.githubusercontent.com/lostdou" alt="Descripción de la imagen" align="right" width="200" height="200">
@@ -81,8 +81,8 @@
 
 <p>
   ☕Take a look to some of my projects (finished or in development) <br>
-  
-  - ⚒ [MineUtilities](https://github.com/Lostdou/MineUtilities) - A Minecraft Java Support Software with Multiple User Features
+
+  - 🏮 [AnimeLibre](https://github.com/Dou-Community-S-A/animelibre) - App to search anime and watch it on your PC without ads and weird things. (In Development)
   <br>
 
  - 🎶 [DouPlay](https://github.com/Lostdou/DouPlay) - Discord bot to play music from YouTube on a call
@@ -90,15 +90,7 @@
 
  - 🎶 [Spotify Widget](https://github.com/Lostdou/Spotify-Widget) - A widget to show your spotify activity
   <br>
-
-  - 🤖 [ItsFridayBot](https://github.com/Dou-Community-S-A/Its_Friday_Bot) - Twitter bot that tweets every day whether it's Friday or not
-  <br>
-
-  - 🏮 [AnimeLibre](https://github.com/Dou-Community-S-A/animelibre) - App to search anime and watch it on your PC without ads and weird things. (In Development)
-  <br>
   
-  - 🚀 Easy Downloader - Program that allows you to download videos from different applications: Instagram, TikTok, YouTube, Twitter, etc. (In Development)
-  <br>
   
 </p>
 
