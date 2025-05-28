@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://github.com/DouDev-SRL" target="_blank">
-    <img src="https://raw.githubusercontent.com/Lostdou/Lostdou/main/doudev-logo.png" alt="DouDev S.R.L. - Friends and associates :D">
+    <img src="https://github.com/user-attachments/assets/b212b72c-9b1d-4f26-99b5-f7565c7f61ba" alt="DouDev S.R.L. - Friends and associates :D">
   </a>
 </p>
 
