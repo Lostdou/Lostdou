@@ -20,7 +20,7 @@
 
 <br>
   
-  - ⚡ Im 19 years old
+  - ⚡ Im 20 years old
     
   - 💻 Currently learning ``Python``, ``TypeScript`` and more languages
   
