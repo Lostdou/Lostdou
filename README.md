@@ -31,28 +31,21 @@
 
 <table align="center" border="0">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <h3>🏮 AnimeLibre</h3>
       Desktop app to search and watch anime on PC without ads.<br><br>
       <a href="https://github.com/Dou-Community-S-A/animelibre" target="_blank">
         <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
       </a>
     </td>
-    <td align="center" width="25%">
-       <h3>🎶 DouPlay</h3>
-       Discord bot developed to play music from YouTube on a call.<br><br>
-       <a href="https://github.com/Lostdou/DouPlay" target="_blank">
-         <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
-       </a>
-    </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <h3>🎧 Spotify Widget</h3>
       A visual widget to connect and show your Spotify activity.<br><br>
       <a href="https://github.com/Lostdou/Spotify-Widget" target="_blank">
         <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
        <h3>🔍 ng-autocomplete</h3>
        An Angular autocomplete component available on NPM.<br><br>
        <a href="https://github.com/Lostdou/dou-ng-autocomplete" target="_blank">
