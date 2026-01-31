@@ -26,9 +26,7 @@
 
 <br><br>
 
-<h2 align="center">🚀 Outstanding Projects</h2>
-<p align="center">Take a look at some of my projects (finished or in development)</p>
-
+<h2 align="center">🚀 Projects</h2>
 <table align="center" border="0">
   <tr>
     <td align="center" width="33%">
@@ -39,16 +37,16 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <h3>🎧 Spotify Widget</h3>
-      A visual widget to connect and show your Spotify activity.<br><br>
-      <a href="https://github.com/Lostdou/Spotify-Widget" target="_blank">
+      <h3>🎧 SoundSwap</h3>
+      Desktop app to export your Spotify's playlists to Youtube.<br><br>
+      <a href="https://github.com/Lostdou/SoundSwap" target="_blank">
         <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
       </a>
     </td>
     <td align="center" width="33%">
-       <h3>🔍 ng-autocomplete</h3>
-       An Angular autocomplete component available on NPM.<br><br>
-       <a href="https://github.com/Lostdou/dou-ng-autocomplete" target="_blank">
+       <h3>🔍 TrackerApp</h3>
+       A mobile app (and API REST) for couples<br><br>
+       <a href="https://github.com/Lostdou/TrackerApp" target="_blank">
         <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
        </a>
        <a href="https://www.npmjs.com/package/dou-ng-autocomplete" target="_blank">
@@ -62,35 +60,19 @@
 
 <h2 align="center">🛠️ My Skills</h2>
 
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="center">💻 Languages</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+  <img src="https://skillicons.dev/icons?i=py,cs,c,ts,js,html,css" alt="Languages" />
 </div>
 
 <h3 align="center">📚 Frameworks & Libraries</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,electron,flask,tailwind,bootstrap,selenium" alt="Frameworks & Libraries" />
 </div>
 
 <h3 align="center">⚙️ Software & Tools</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,docker" alt="Software & Tools" />
 </div>
-
+</div>
 <br><br>
