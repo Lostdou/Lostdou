@@ -49,9 +49,6 @@
        <a href="https://github.com/Lostdou/TrackerApp" target="_blank">
         <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
        </a>
-       <a href="https://www.npmjs.com/package/dou-ng-autocomplete" target="_blank">
-        <img src="https://img.shields.io/badge/NPM_Pkg-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM">
-       </a>
     </td>
   </tr>
 </table>
