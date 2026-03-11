@@ -30,13 +30,6 @@
 <table align="center" border="0">
   <tr>
     <td align="center" width="33%">
-      <h3>🏮 AnimeLibre</h3>
-      Desktop app to search and watch anime on PC without ads.<br><br>
-      <a href="https://github.com/Dou-Community-S-A/animelibre" target="_blank">
-        <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
-      </a>
-    </td>
-    <td align="center" width="33%">
       <h3>🎧 SoundSwap</h3>
       Desktop app to export your Spotify's playlists to Youtube.<br><br>
       <a href="https://github.com/Lostdou/SoundSwap" target="_blank">
@@ -49,6 +42,13 @@
        <a href="https://github.com/Lostdou/TrackerApp" target="_blank">
         <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
        </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎮 GameSync</h3>
+      Desktop app to sync games from different launchers.<br><br>
+      <a href="https://github.com/Lostdou/Gamesync" target="_blank">
+        <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
+      </a>
     </td>
   </tr>
 </table>
