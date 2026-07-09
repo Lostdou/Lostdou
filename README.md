@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm LostDou! 👋</h1>
+<h1 align="center">Hi :3</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -24,34 +24,6 @@
   </a>
 </div>
 
-<br><br>
-
-<h2 align="center">🚀 Projects</h2>
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎧 SoundSwap</h3>
-      Desktop app to export your Spotify's playlists to Youtube.<br><br>
-      <a href="https://github.com/Lostdou/SoundSwap" target="_blank">
-        <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
-      </a>
-    </td>
-    <td align="center" width="33%">
-       <h3>🔍 TrackerApp</h3>
-       A mobile app (and API REST) for couples<br><br>
-       <a href="https://github.com/Lostdou/TrackerApp" target="_blank">
-        <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
-       </a>
-    </td>
-    <td align="center" width="33%">
-      <h3>🎮 GameSync</h3>
-      Desktop app to sync games from different launchers.<br><br>
-      <a href="https://github.com/Lostdou/Gamesync" target="_blank">
-        <img src="https://img.shields.io/badge/Repository-24292e?style=flat-square&logo=github&logoColor=white" alt="Repo">
-      </a>
-    </td>
-  </tr>
-</table>
 
 <br><br>
 
