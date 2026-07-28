@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-   ⚡ 20 years old junior developer based in Argentina.<br>
+   ⚡ 21 years old junior developer based in Argentina.<br>
    💻 Currently focused on learning <code>Python</code>, <code>TypeScript</code> and clean architectures.<br>
    ❤️ I love solving problems, except my own problems.
 </p>
