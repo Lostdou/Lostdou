@@ -2,6 +2,7 @@
 
 <p align="left">
     ⚡ 21 y/o<br>
+    📚 Tecnico Univ. en Informatica - UNNE <br>
     💻 SW and Web Dev. <br>
     💼 Currently working in <a href="https://www.dcs.ar/">DC Solutions</a>
 </p>
