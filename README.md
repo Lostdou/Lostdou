@@ -27,7 +27,7 @@
 
 <h3 align="left">💻 Languages</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,cs,ts,c,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,ts,cs,c,rust,html,css" alt="Languages" />
 </div>
 
 <h3 align="left">📚 Frameworks & Libraries</h3>
