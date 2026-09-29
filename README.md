@@ -32,7 +32,7 @@
 
 <h3 align="left">📚 Frameworks & Libraries</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=angular,dotnet,electron,flask,bootstrap,selenium" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,fastapi,electron,flask,bootstrap,selenium" alt="Frameworks & Libraries" />
 </div>
 
 </div>
