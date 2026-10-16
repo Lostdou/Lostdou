@@ -1,10 +1,10 @@
 <h1 align="left">Hi</h1>
 
 <p align="left">
-    ⚡ 21 y/o<br>
-    📚 Tecnico Univ. en Informatica - UNNE <br>
-    💻 SW and Web Dev. <br>
-    💼 Currently working in <a href="https://www.dcs.ar/">DC Solutions</a>
+    - 21 y/o<br>
+    - Tecnico Univ. en Informatica - UNNE <br>
+    - SW and Web Dev. <br>
+    - Currently working in <a href="https://www.dcs.ar/">DC Solutions</a>
 </p>
 
 <div align="left">
@@ -23,17 +23,23 @@
 </div>
 
 
-<h2 align="left">🛠️ My Skills</h2>
+<h2 align="left">My Skills</h2>
 
-<h3 align="left">💻 Languages</h3>
+<h3 align="left"> Languages</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py,ts,cs,c,rust,html,css" alt="Languages" />
 </div>
 
-<h3 align="left">📚 Frameworks & Libraries</h3>
+<h3 align="left">Frameworks & Libraries</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=angular,dotnet,fastapi,electron,flask,bootstrap,selenium" alt="Frameworks & Libraries" />
 </div>
 
-</div>
-<br><br>
+<h2 align="left">Projects</h2>
+<p align="left"> 
+    - <a href="https://github.com/Lostdou/clipboard">Clipboard</a>: Sync clipboards between Android and Windows, made in C#.<br>
+    - <a href="https://github.com/Lostdou/cliperino">Cliperino</a>: Light tool to record clips on Windows desktop, made in C#.<br>
+    - <a href="https://github.com/Lostdou/ReactLib">ReactLib</a>: Twitter reactions library, made with TSQL, C# and Angular.<br>
+    - <a href="https://github.com/Lostdou/minigames">minigames</a>: Small PWA to play games offline, made in Angular.<br>
+    - <a href="https://github.com/Lostdou/TrackerApp">TrackerApp</a>: Couple-oriented mobile app (and API) to sync Android phones, made in C#.<br>
+</p>
