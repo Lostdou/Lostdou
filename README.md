@@ -37,9 +37,7 @@
 
 <h2 align="left">Projects</h2>
 <p align="left"> 
-    - <a href="https://github.com/Lostdou/clipboard">Clipboard</a>: Sync clipboards between Android and Windows, made in C#.<br>
     - <a href="https://github.com/Lostdou/cliperino">Cliperino</a>: Light tool to record clips on Windows desktop, made in C#.<br>
-    - <a href="https://github.com/Lostdou/ReactLib">ReactLib</a>: Twitter reactions library, made with TSQL, C# and Angular.<br>
+    - <a href="https://github.com/Lostdou/clipboard">Clipboard</a>: Sync clipboards between Android and Windows, made in C#.<br>
     - <a href="https://github.com/Lostdou/minigames">minigames</a>: Small PWA to play games offline, made in Angular.<br>
-    - <a href="https://github.com/Lostdou/TrackerApp">TrackerApp</a>: Couple-oriented mobile app (and API) to sync Android phones, made in C#.<br>
 </p>
